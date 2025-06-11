@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiNotebookPen",
+      "LiSun",
+      "LiNewspaper",
+      "LiEye",
+      "👀"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,29 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
+  },
+  "Gestion_Projet": {
+    "iconName": "LiSquareTerminal",
+    "iconColor": "#984cd6"
+  },
+  "Technologies": {
+    "iconName": "LiLightbulb",
+    "iconColor": "#de3f3f"
+  },
+  "Vault_Views": {
+    "iconName": "LiEye",
+    "iconColor": "#30d9d9"
+  },
+  "Média": {
+    "iconName": "LiNewspaper",
+    "iconColor": "#427c22"
+  },
+  "Daily_Notes": {
+    "iconName": "LiSun",
+    "iconColor": "#f0dc00"
+  },
+  "Note_Taking": {
+    "iconName": "LiNotebookPen",
+    "iconColor": "#d599f4"
   }
 }

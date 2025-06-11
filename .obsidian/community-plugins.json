@@ -3,5 +3,6 @@
   "dataview",
   "obsidian-icon-folder",
   "obsidian-kanban",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-plugin-toc"
 ]
