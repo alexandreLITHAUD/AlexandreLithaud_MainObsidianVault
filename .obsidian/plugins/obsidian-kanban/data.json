@@ -1,0 +1,11 @@
+{
+  "archive-with-date": true,
+  "append-archive-date": true,
+  "inline-metadata-position": "body",
+  "metadata-keys": [],
+  "tag-sort": [
+    {
+      "tag": "#tkanban"
+    }
+  ]
+}
