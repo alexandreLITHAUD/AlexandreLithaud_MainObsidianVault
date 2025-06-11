@@ -46,10 +46,6 @@
     "iconName": "LiEye",
     "iconColor": "#30d9d9"
   },
-  "Média": {
-    "iconName": "LiNewspaper",
-    "iconColor": "#427c22"
-  },
   "Daily_Notes": {
     "iconName": "LiSun",
     "iconColor": "#f0dc00"
@@ -57,5 +53,9 @@
   "Note_Taking": {
     "iconName": "LiNotebookPen",
     "iconColor": "#d599f4"
+  },
+  "Media": {
+    "iconName": "LiNewspaper",
+    "iconColor": "#427c22"
   }
 }

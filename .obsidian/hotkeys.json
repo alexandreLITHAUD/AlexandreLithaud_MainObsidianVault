@@ -61,5 +61,19 @@
       ],
       "key": "Backspace"
     }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
   ]
 }
