@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaCrown",
+      "LiGamepad2",
+      "LiImages",
       "LiNotebookPen",
-      "LiSun",
-      "LiNewspaper",
-      "LiEye",
-      "👀"
+      "LiSun"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -57,5 +57,14 @@
   "Media": {
     "iconName": "LiNewspaper",
     "iconColor": "#427c22"
+  },
+  "Images": {
+    "iconName": "LiImages",
+    "iconColor": "#c48517"
+  },
+  "Media/Video-Game": "LiGamepad2",
+  "Media/Video-Game/Blue Prince.md": {
+    "iconName": "RaCrown",
+    "iconColor": "#1dc7dd"
   }
 }

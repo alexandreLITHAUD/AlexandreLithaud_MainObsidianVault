@@ -1,4 +1,6 @@
 {
   "vimMode": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Images"
 }
