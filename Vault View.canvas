@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"4db0c432af489be0","x":40,"y":60,"width":640,"height":300,"type":"file","file":"Vault_Views/Video Game View.md"},
+		{"id":"4b7678a8d0a49e60","x":-720,"y":-40,"width":500,"height":420,"type":"file","file":"Vault_Views/Daily Notes View.md"}
+	],
+	"edges":[]
+}

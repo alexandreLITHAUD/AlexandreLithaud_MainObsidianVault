@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDatabaseZap",
       "RaCrown",
       "LiGamepad2",
       "LiImages",
-      "LiNotebookPen",
-      "LiSun"
+      "LiNotebookPen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -66,5 +66,9 @@
   "Media/Video-Game/Blue Prince.md": {
     "iconName": "RaCrown",
     "iconColor": "#1dc7dd"
+  },
+  "Technologies/Thanos.md": {
+    "iconName": "LiDatabaseZap",
+    "iconColor": "#33d1d1"
   }
 }

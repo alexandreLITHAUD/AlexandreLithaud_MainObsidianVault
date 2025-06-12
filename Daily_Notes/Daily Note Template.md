@@ -1,0 +1,5 @@
+---
+mood:
+---
+#dailynote
+# Day
