@@ -6,7 +6,6 @@ round(average(number(mood)), 2) as "Average Mood / 10"
 FROM #dailynote
 WHERE mood
 ```
-
 # Average Mood this Week
 ```dataview
 TABLE WITHOUT ID

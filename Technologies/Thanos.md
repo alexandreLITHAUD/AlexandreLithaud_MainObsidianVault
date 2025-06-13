@@ -1,6 +1,7 @@
 ---
 type: documentation
 technology: db
+devops: ✅
 ---
 #technology
 # Description

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiGnubash",
       "LiDatabaseZap",
       "RaCrown",
       "LiGamepad2",
-      "LiImages",
-      "LiNotebookPen"
+      "LiImages"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -70,5 +70,9 @@
   "Technologies/Thanos.md": {
     "iconName": "LiDatabaseZap",
     "iconColor": "#33d1d1"
+  },
+  "Technologies/Bash.md": {
+    "iconName": "SiGnubash",
+    "iconColor": "#36d3d0"
   }
 }

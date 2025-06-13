@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"4db0c432af489be0","x":40,"y":60,"width":640,"height":300,"type":"file","file":"Vault_Views/Video Game View.md"},
-		{"id":"4b7678a8d0a49e60","x":-720,"y":-40,"width":500,"height":420,"type":"file","file":"Vault_Views/Daily Notes View.md"}
+		{"id":"4db0c432af489be0","type":"file","file":"Vault_Views/Video Game View.md","x":-100,"y":60,"width":780,"height":300},
+		{"id":"4b7678a8d0a49e60","type":"file","file":"Vault_Views/Daily Notes View.md","x":-800,"y":-60,"width":500,"height":420},
+		{"id":"4c8353d0dd345a4e","type":"file","file":"Vault_Views/Technologies View.md","x":-820,"y":-560,"width":700,"height":440}
 	],
 	"edges":[]
 }
