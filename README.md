@@ -11,7 +11,7 @@ This vault aims to regroup all smaller Vaults into one and act as my own persona
 ├── Gestion_Projet    # Where I create and store all my project ideas
 ├── Images            # Where my images and temporary excalidraw goes 
 ├── Media             # Where I add all the videogames 
-|					            # and movies I reviewed
+|					# and movies I reviewed
 ├── Note_Taking       # Where I add all the other notes
 ├── README.md        
 ├── Technologies      # Where I stores the Notes about the 
